@@ -3396,7 +3396,7 @@ button.success,
   position: absolute;
   top: 12px;
   left: 28px;
-  background: url(../img/icons/icloud.svg) 50% no-repeat;
+  background: url(../img/icons/cloud.svg) 50% no-repeat;
   z-index: 5;
 }
 
