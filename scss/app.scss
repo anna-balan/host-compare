@@ -194,6 +194,7 @@ button,
     	background: $secondary-color url(../img/icons/arrow-down.svg) no-repeat 50%;
     	color: #FFF;
     	z-index: 8;
+    	pointer-events:none;
 		}
 
 }
@@ -222,6 +223,7 @@ button,
     	background: $secondary-color url(../img/icons/arrow-down.svg) no-repeat 50%;
     	color: #FFF;
     	z-index: 8;
+    	pointer-events:none;
 		}
 }
 .choice-form{

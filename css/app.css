@@ -3382,6 +3382,7 @@ button.success,
   background: #5dbab5 url(../img/icons/arrow-down.svg) no-repeat 50%;
   color: #FFF;
   z-index: 8;
+  pointer-events: none;
 }
 
 .choice--cloud {
@@ -3411,6 +3412,7 @@ button.success,
   background: #5dbab5 url(../img/icons/arrow-down.svg) no-repeat 50%;
   color: #FFF;
   z-index: 8;
+  pointer-events: none;
 }
 
 .choice-form {

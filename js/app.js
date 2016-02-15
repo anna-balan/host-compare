@@ -1,5 +1,5 @@
 ;(function($){
-
+  $(document).foundation();
  	$(function(){
   		var slider = $('.ba-slider');
 
